@@ -1,0 +1,29 @@
+{
+	"label": "All About Drones",
+	"entries": {
+		"GRAF3": {
+			"name": "GRAF3",
+			"description": "<p>Quadruped construction drone.</p>"
+		},
+		"My First GRAF3": {
+			"name": "My First GRAF3",
+			"description": "<p>Personal Drone. Tiny GRAF3 that can be linked to an Agent.</p>"
+		},
+		"Savannah Eagle": {
+			"name": "Savannah Eagle",
+			"description": "<p>Active Airborne Defense Drone.</p>"
+		},
+		"Savannah Panther": {
+			"name": "Savannah Panther",
+			"description": "<p>Active Defense Drone.</p>"
+		},
+		"The Observer": {
+			"name": "The Observer",
+			"description": "<p>Personal Drone. Flying camera that can be linked to an Agent.</p>"
+		},
+		"The Transporter": {
+			"name": "The Transporter",
+			"description": "<p>Personal Drone. Transporter Drone that can be linked to an Agent.</p>"
+		}
+	}
+}
